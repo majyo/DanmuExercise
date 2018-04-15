@@ -1,0 +1,12 @@
+.blackboard {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    height: 600px;
+}
+
+.danmuMessage {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
